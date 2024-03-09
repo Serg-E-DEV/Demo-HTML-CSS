@@ -74,7 +74,7 @@
 	background-color: var(--color-primary);
 }
 
-.catalog-tabs__tab_active a:hover {	
+.catalog-tabs__tab_active a:hover {
 	background-color: var(--color-primary-hover);
 }
 @media (max-width: 500px) {
@@ -97,7 +97,8 @@
 	font-size: 18px;
 	line-height: 1.2em;
 	text-align: center;
-	color: var(--color-text);	
+	color: var(--color-text);
+	cursor: pointer;
 }
 
 .button:hover {
@@ -254,13 +255,6 @@
 }
 
 .product-card__bottom {
-	/* 
-	display: flex;
-	flex-flow: row nowrap;
-	justify-content: space-between;
-	align-items: center;
- */
-
 	padding: 24px;
 	display: grid;
 	grid-template-columns: 1fr auto;
