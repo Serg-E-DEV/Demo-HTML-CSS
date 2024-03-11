@@ -1,16 +1,16 @@
-# Примеры работ на чистом HTML/CSS без использования JS
+# Примеры работ на чистом HTML/CSS
 
-## Main page - Finio
+## Макет: Онлайн-сервис
 
 Главная страница онлайн-сервиса.
 Вёрстка выполнена на чистом HTML/CSS c применением Flexbox, Grid Layout, BEM, SMACSS, Custom Properties
 
-## Main page - Purple School
+## Макет: Онлайн-школа
 
 Главная страница онлайн-школы.
 Вёрстка выполнена на чистом HTML/CSS c применением Flexbox, Grid Layout, BEM, SMACSS, Custom Properties
 
-## Form - Registration
+## Макет: Форма регистрации
 
 Форма регистрации.
 Вёрстка выполнена на чистом HTML/CSS c применением Flexbox
